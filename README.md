@@ -1,10 +1,10 @@
 # Table of Contents
--[PROJECT TITLE](Project-Title)
--[DESCRIPTION](Description)
--[HOW TO RUN PROGRAM](How-to-Run-Program)
--[FILES USED](Files-Used)
--[ADDITIONAL DOCUMENTATION](Additional-Documentation)
--[VERSIONING](Versioning)
+- [PROJECT TITLE](Project-Title)
+- [DESCRIPTION](Description)
+- [HOW TO RUN PROGRAM](How-to-Run-Program)
+- [FILES USED](Files-Used)
+- [ADDITIONAL DOCUMENTATION](Additional-Documentation)
+- [VERSIONING](Versioning)
 
 ## Project Title
 ** Hello-World**
