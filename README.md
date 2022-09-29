@@ -1,11 +1,24 @@
-# Project Title
+# Table of Contents
+[PROJECT TITLE](Project-Title)
+[DESCRIPTION](Description)
+[HOW TO RUN PROGRAM](How to Run Program)
+[FILES USED](Files Used)
+[ADDITIONAL DOCUMENTATION](Additional Documentation)
+[VERSIONING](Versioning)
 
-# Description
+## Project Title
+** Hello-World**
 
-# How to Run Program
+## Description
+Practice GitHub by creating a sample repository using different markdown styles
 
-# Files Used
+## How to Run Program
+*No program to be ran*
 
-# Additional Documentation
+## Files Used
+No files used
 
-# Versioning
+## Additional Documentation
+
+## Versioning
+
