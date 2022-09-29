@@ -1,5 +1,6 @@
 # Hello-World
-> Hello my name is Dante <
+> Hello my name is Dante
+
 **Some of my favorite things to do include:**
 1. Hanging out with friends
 2. Playing Basketball
