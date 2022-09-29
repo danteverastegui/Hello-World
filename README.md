@@ -1,4 +1,3 @@
----
 # Table of Contents
 - [PROJECT TITLE](Project-Title)
 - [DESCRIPTION](Description)
@@ -6,12 +5,12 @@
 - [FILES USED](Files-Used)
 - [ADDITIONAL DOCUMENTATION](Additional-Documentation)
 - [VERSIONING](Versioning)
-- 
+
 ## Project Title
 **Hello-World**
 
 ## Description
-Practice GitHub by creating a sample repository using different markdown styles.
+>Practice GitHub by creating a sample repository using different markdown styles.
 
 ## How to Run Program
 *N/A*
@@ -24,4 +23,3 @@ Practice GitHub by creating a sample repository using different markdown styles.
 
 ## Versioning
 *N/A*
----
