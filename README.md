@@ -5,15 +5,15 @@
 - [FILES USED](Files-Used)
 - [ADDITIONAL DOCUMENTATION](Additional-Documentation)
 - [VERSIONING](Versioning)
-
+---
 ## Project Title
 **Hello-World**
 
 ## Description
-Practice GitHub by creating a sample repository using different markdown styles
+Practice GitHub by creating a sample repository using different markdown styles.
 
 ## How to Run Program
-*No program to be ran*
+*N/A*
 
 ## Files Used
 *N/A*
