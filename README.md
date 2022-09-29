@@ -7,7 +7,7 @@
 - [VERSIONING](Versioning)
 
 ## Project Title
-** Hello-World**
+**Hello-World**
 
 ## Description
 Practice GitHub by creating a sample repository using different markdown styles
@@ -16,9 +16,11 @@ Practice GitHub by creating a sample repository using different markdown styles
 *No program to be ran*
 
 ## Files Used
-No files used
+*N/A*
 
 ## Additional Documentation
+*N/A*
 
 ## Versioning
+*N/A*
 
